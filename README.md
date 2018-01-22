@@ -8,7 +8,16 @@
     2. ikiwiki
     3. Oddmuse
     4. PmWiki
- 
+ 2. Блоги:
+     - Tumblr
+     - scriptogr.am
+     
+   3. CMS:
+       * Drupal 
+       * Magento 
+       * Plone
+       * TYPO3 
+       * RadiantCMS 
 
    
     
